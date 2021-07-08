@@ -10,18 +10,18 @@ GS-OptOps is an open source platform to manage the ML lifecycle: training, deplo
 GS-OptOps is designed to cover the end-to-end ML workflow
 
 ### Components
-- [`Workflow Tool:Pipeline`]
-  
-- [`Train`]
-  - Training-type Optimization
-  - Edge-computing Optimization
-  
-- [`Deploy`]
-  - Edge-computing Optimization
-  
-- [`Monitor`]
+- Workflow Tool:Pipeline
 
-- [`Model Registry`]
+- Train
+    - Training-type Optimization
+    - Edge-computing Optimization
+
+- Deploy
+    - Edge-computing Optimization
+
+- Monitor
+
+- Model Registry
 
 ## Releases
 
