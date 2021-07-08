@@ -1,1 +1,1 @@
-# gs-ai-ops
+# GS-Optops
