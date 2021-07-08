@@ -21,7 +21,7 @@ GS-OptOps is designed to cover the end-to-end ML workflow
   
 - [`Monitor`]
 
-- [`Model Registryt`]
+- [`Model Registry`]
 
 ## Releases
 
