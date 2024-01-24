@@ -1,2 +1,6 @@
-# device-plugin은 host-device-plugin과 virtual-device-plugin으로 구성되어 있음
-- 파드에서는 여전히 전체 gpu를 바라보고 있지만 가상 쿠버네티스에서 조회할 땐 할당된 gpu만 조회되어 다른 파드와 충돌할 일이 없어짐
+# vk8s device-plugin 이란?
+- 가상 쿠버네티스에서 gpu 자원을 조회할때, 할당된 gpu만 조회하도록 하여, 다른 파드와 자원 충돌하지 않도록 추가한 모듈
+
+# 구성 
+- host-device-plugin
+- virtual-device-plugin
