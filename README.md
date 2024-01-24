@@ -74,3 +74,7 @@ vk8s Custom Resource 스펙과 Custom Resource에 대한 로직을 직접 수정
 vnode(virtual node) Dockerfile, vk8s 스크립트 등 vnode 이미지 빌드와 관련된 파일이 있는 폴더 입니다. 
 ### ip manager
 calico static ip 할당을 위해, ippool과 할당 가능한 ip 등의 관리를 담당하는 서비스입니다. 
+
+## 학습-추론 예제 실행
+Federated Learning 실행을 위해 tensorflow 예제가 구현되어 있습니다. 위에서 연합학습한 모델을 다운로드 받아서 한번 더 학습하는 예제입니다.
+(https://github.com/gedge-platform/gs-optops/tree/master/vk8s/vk8s/federated-learning)
