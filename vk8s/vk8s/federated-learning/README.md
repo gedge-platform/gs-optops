@@ -1,7 +1,4 @@
 # Federated Learning
-## Description
-국책 과제를 수행하기 위한 파일들, 결과를 저장하기 위한 폴더입니다.   
-![description](./imgs/description.png)
 
 ## Prerequisite
 - Python == 3.8.x
